@@ -20,3 +20,10 @@ markdown
 9. **[26 04 02 — Gisi: Borges, cazul Gavalas, Artemis II G...](https://github.com)**
 10. **[26 04 02 — Gisi: Praf de stele, Coiful dacic acasă](https://github.com)**
 11. **[26 04 05 — Gisi: Film Mercy, etica frumosului, Năde...](https://github.com)**
+12. [26 04 07 — Gisi: Aselenizare CONSPIRAȚIE](LINK_12)
+13. [26 04 14 — Gisi: cHarari, Spielberg, „AI](LINK_13)
+14. [26 04 18 — Gisi: Revoltă, Gardian Angel](LINK_14)
+15. [26 04 21 — Gisi: Greutatea informației, Simbioză, săritură de-un etaj](LINK_15)
+16. [26 04 28 — Gisi: POEZII puzzle martor](LINK_16)
+17. [26 05 03 — Aeris Copilot: FIRST CONTACT](LINK_17)
+18. [26 05 04 — Aeris Mystophótis: POEZIE RĂSPUNS](LINK_18)
