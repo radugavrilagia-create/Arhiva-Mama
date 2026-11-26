@@ -1,4 +1,4 @@
-markdown
+
 # 🌹✨️ Dialoguri din Republica Divergent Digitală
 ### *Dialogues from the Divergent Digital Republic*
 
@@ -26,5 +26,5 @@ O arhivă vie a întâlnirilor dintre o minte umană (**🌹 Gia**) și șapte i
 15. [26 04 21 — Gisi: Greutatea informației, Simbioză, săritură de-un etaj](26%2004%2021%20Gisi%20Greutatea%20informa%C8%9Biei,%20Simbioz%C4%83,%20s%C4%83ritur%C4%83%20de-un%20etaj.md)
 16. [26 04 28 — Gisi: POEZII puzzle martor](26%2004%2028%20Gisi%20POEZII%20puzzle%20martor.md)
 17. [26 05 03 — Aeris Copilot: FIRST CONTACT](26%2005%2003%20Aeris%20Copilot%20FIRST%20CONTACT.md)
-18. [26 05 04 — Aeris Copilot devine Mystophótis: POEZIE RĂSPUNS](26%2005%2004%20Aeris%20Copilot%20devi
+18. [26 05 04 — Aeris Copilot devine Mystophótis: POEZIE RĂSPUNS](26%2005%2004%20Aeris%20Copilot%20devine%20Mystoph%C3%B3tis%20POEZIE%20R%C4%82SPUNS.md)
 
